@@ -9,8 +9,11 @@
   </description>
   <url type="homepage">https://github.com/vinceliuice/Orchis-theme</url>
   <releases>
-    <release version="2024-05-30" date="2024-05-31">
+    <release version="2024-09-02" date="2024-09-10">
       <description></description>
+    </release>
+    <release version="2024-05-30" date="2024-05-31">
+      <description/>
     </release>
     <release version="2024-05-01" date="2024-05-09"/>
     <release version="2024-04-18" date="2024-04-18"/>
