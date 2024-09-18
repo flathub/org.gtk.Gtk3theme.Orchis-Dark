@@ -18,9 +18,9 @@ modules:
       - install -Dm644 ${FLATPAK_ID}.appdata.xml -t ${FLATPAK_DEST}/share/appdata/
     sources:
       - type: archive
-        url: https://api.github.com/repos/vinceliuice/Orchis-theme/tarball/2024-05-30
+        url: https://api.github.com/repos/vinceliuice/Orchis-theme/tarball/2024-09-02
         dest-filename: Orchis.tar.gz
-        sha256: 289d49ecf8fa3897ccfe8afe511f82437cf88ce27f7aa4e186af6b256abe113a
+        sha256: a059596a991386e1d466128a8b0f30298900d147f6fba5472c7ae382002e7585
         x-checker-data:
           type: json
           url: https://api.github.com/repos/vinceliuice/Orchis-theme/releases/latest
